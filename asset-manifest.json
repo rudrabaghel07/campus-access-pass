@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/campus-access-pass/static/css/main.3f685a25.css",
-    "main.js": "/campus-access-pass/static/js/main.f1104355.js",
+    "main.css": "/campus-access-pass/static/css/main.c7f95c88.css",
+    "main.js": "/campus-access-pass/static/js/main.442ad2cb.js",
     "index.html": "/campus-access-pass/index.html",
-    "main.3f685a25.css.map": "/campus-access-pass/static/css/main.3f685a25.css.map",
-    "main.f1104355.js.map": "/campus-access-pass/static/js/main.f1104355.js.map"
+    "main.c7f95c88.css.map": "/campus-access-pass/static/css/main.c7f95c88.css.map",
+    "main.442ad2cb.js.map": "/campus-access-pass/static/js/main.442ad2cb.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f685a25.css",
-    "static/js/main.f1104355.js"
+    "static/css/main.c7f95c88.css",
+    "static/js/main.442ad2cb.js"
   ]
 }
