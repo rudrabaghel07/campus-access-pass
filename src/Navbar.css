@@ -1,0 +1,25 @@
+/* src/components/Navbar.css */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+.custom-navbar {
+    background: linear-gradient(90deg, #0f9d58, #34a853); /* Better than just bg-success */
+    font-family: 'Poppins', sans-serif;
+    padding: 0.6rem 1rem;
+}
+
+.navbar-brand,
+.nav-link {
+    color: #ffffff !important;
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+    color: #ffeb3b !important; /* Soft yellow on hover */
+    text-decoration: underline;
+}
+
+.navbar {
+    box-shadow: 0 3px 10px rgba(15, 15, 15, 0.08);
+}
