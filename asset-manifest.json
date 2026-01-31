@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/campus-access-pass/static/css/main.3f685a25.css",
+    "main.js": "/campus-access-pass/static/js/main.f1104355.js",
+    "index.html": "/campus-access-pass/index.html",
+    "main.3f685a25.css.map": "/campus-access-pass/static/css/main.3f685a25.css.map",
+    "main.f1104355.js.map": "/campus-access-pass/static/js/main.f1104355.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f685a25.css",
+    "static/js/main.f1104355.js"
+  ]
+}
